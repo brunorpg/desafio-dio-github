@@ -7,3 +7,4 @@ Data       | Modulo                               | Iniciado | Concluido
 28/01/2022 | Construindo páginas para internet com Bootstrap    |        |    ✅ 
 28/01/2022 | IDE Instalação e Configuração(VS Code)   |        |    ✅ 
 28/01/2022 | Introdução ao Javascript  |        |    ✅ 
+28/01/2022 | Sintaxe basica em  Javascript  |     ✅   |     
