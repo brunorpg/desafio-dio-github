@@ -8,3 +8,4 @@ Data       | Modulo                               | Iniciado | Concluido
 28/01/2022 | IDE Instalação e Configuração(VS Code)   |        |    ✅ 
 28/01/2022 | Introdução ao Javascript  |        |    ✅ 
 28/01/2022 | Sintaxe basica em  Javascript  |     ✅   |     
+28/01/2022 | Sintaxe basica em  Javascript  |       |✅  
