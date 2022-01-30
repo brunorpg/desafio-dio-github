@@ -9,3 +9,5 @@ Data       | Modulo                               | Iniciado | Concluido
 28/01/2022 | Introdução ao Javascript  |        |    ✅ 
 28/01/2022 | Sintaxe basica em  Javascript  |     ✅   |     
 28/01/2022 | Sintaxe basica em  Javascript  |       |✅  
+29/01/2022 | Sintaxe e Operadores  |       |✅  
+29/01/2022 | Variaveis e Tipos  |       |✅  
