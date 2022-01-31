@@ -12,3 +12,4 @@ Data       | Modulo                               | Iniciado | Concluido
 29/01/2022 | Sintaxe e Operadores  |       |✅  
 30/01/2022 | Variaveis e Tipos  |       |✅  
 31/01/2022 | Funções  |       |✅  
+31/01/2022 | Coleções  |       |✅  
