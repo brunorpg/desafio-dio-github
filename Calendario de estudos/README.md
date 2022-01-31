@@ -13,3 +13,4 @@ Data       | Modulo                               | Iniciado | Concluido
 30/01/2022 | Variaveis e Tipos  |       |✅  
 31/01/2022 | Funções  |       |✅  
 31/01/2022 | Coleções  |       |✅  
+31/01/2022 | Debugging e Error Handling |       |✅  
