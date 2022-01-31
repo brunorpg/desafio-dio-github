@@ -14,3 +14,4 @@ Data       | Modulo                               | Iniciado | Concluido
 31/01/2022 | Funções  |       |✅  
 31/01/2022 | Coleções  |       |✅  
 31/01/2022 | Debugging e Error Handling |       |✅  
+31/01/2022 | Javascript Assincrono |       |✅  
