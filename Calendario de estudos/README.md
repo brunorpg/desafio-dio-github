@@ -17,3 +17,7 @@ Data       | Modulo                               | Iniciado | Concluido
 31/01/2022 | Javascript Assincrono |       |✅  
 31/01/2022 | Orientação a Objetos |       |✅  
 01/02/2022 | Map, Filter e Reduce |       |✅ 
+02/02/2022 | Manipulando a D.O.M com JavaScript |       |✅ 
+02/02/2022 | Resolvendo Desafios de Codigo em Javascript |       |✅ 
+02/02/2022 | Programando com Js |       |✅ 
+02/02/2022 | Recriando a Interface do Netflix |    ✅    | 
