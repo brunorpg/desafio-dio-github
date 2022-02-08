@@ -21,3 +21,4 @@ Data       | Modulo                               | Iniciado | Concluido
 02/02/2022 | Resolvendo Desafios de Codigo em Javascript |       |✅ 
 02/02/2022 | Programando com Js |       |✅ 
 02/02/2022 | Recriando a Interface do Netflix |    ✅    | 
+07/02/2022 | Recriando a Interface do Netflix |       | ✅ 
