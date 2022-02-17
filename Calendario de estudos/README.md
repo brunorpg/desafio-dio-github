@@ -22,3 +22,11 @@ Data       | Modulo                               | Iniciado | Concluido
 02/02/2022 | Programando com Js |       |✅ 
 02/02/2022 | Recriando a Interface do Netflix |    ✅    | 
 07/02/2022 | Recriando a Interface do Netflix |       | ✅ 
+08/02/2022 | SQL SERVER - Criando suas primeiras consultas |  ✅      | 
+09/02/2022 | SQL SERVER - Criando suas primeiras consultas |       | ✅ 
+10/02/2022 | Modelando um banco de dados na praticas com SQL Server |       | ✅ 
+10/02/2022 | SQL SERVER - Boas Praticas em bancos relacionais |       | ✅ 
+14/02/2022 | Introcução ao ReactJS|       | ✅ 
+15/02/2022 | Desenvolvimento de aplicações para internet com ReactJS|       | ✅ 
+17/02/2022 | Trabalhando com componentes em ReactJS|       | ✅ 
+
